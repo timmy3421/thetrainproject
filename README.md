@@ -29,4 +29,4 @@ Cloud Formation | Method by which to deploy site onto CDN
 - For Certificates in Certificate Manager make sure to use the us-east-1 because if you plan on using CloudFront it only supports us-east-1.  
 &nbsp;
 
-[ThingSpeakTrainVibration](https://thingspeak.com/channels/1267495)
+[ThingSpeakTrainVibrationAnalytics](https://thingspeak.com/channels/1267495)
