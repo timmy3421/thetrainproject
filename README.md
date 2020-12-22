@@ -1,7 +1,7 @@
 # the train project
-A project to express my skills in AWS and beyond.  
-
+**A project to express my skills in AWS and beyond.**
 &nbsp;
+
 **Problem to solve:**
 A train runs by my house making it an annoyance to record music when not knowing when the train will come by.  
 
@@ -10,8 +10,6 @@ A train runs by my house making it an annoyance to record music when not knowing
 Use an Arduino (NodeMCU) with a vibration sensor and sound sensor to capture when the train last went by. This data will be sent to AWS IOT Analytics and eventually will calculate when the next train will come by based on Machine Learning. This end calculation will populate a device on-prem that will show when it predicts the next train will go by. 
 Use AWS side technologies in an API First Manner.  
 
-&nbsp;
-&nbsp;
 &nbsp;
 **code directories**
 - [ ] arduino - code for the IOT device
