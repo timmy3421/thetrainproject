@@ -16,6 +16,7 @@ Use AWS side technologies in an API First Manner.
 - [ ] hugo -  
 &nbsp;
 
+**Technologies Used**
 Service/Technology | Use/Reason
 ------------ | -------------
 Powershell | Install Hugo
