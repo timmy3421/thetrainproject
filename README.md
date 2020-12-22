@@ -13,8 +13,7 @@ Use AWS side technologies in an API First Manner.
 
 **code directories -  [x] marks completion**
 - [ ] arduino - code for the IOT device
-- [ ] hugo -
-&nbsp;
+- [ ] hugo -  
 &nbsp;
 
 Service/Technology | Use/Reason
