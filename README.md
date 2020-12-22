@@ -11,7 +11,7 @@ Use an Arduino (NodeMCU) with a vibration sensor and sound sensor to capture whe
 Use AWS side technologies in an API First Manner.  
 &nbsp;
 
-**code directories [x] marks completion**
+**code directories -  [x] marks completion**
 - [ ] arduino - code for the IOT device
 - [ ] hugo -
 &nbsp;
